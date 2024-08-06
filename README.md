@@ -16,8 +16,8 @@
   <li>PosgresSql</li>
 </ul>
 <br/>
-<p align="center">
+<button align="center">
   <a href="https://www.linkedin.com/in/andres-felipe-hoyos-garzon-05836728a/">Linkeding  🔗</a> 
-</p>
+</button>
 
 
