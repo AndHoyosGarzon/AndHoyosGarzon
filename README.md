@@ -10,10 +10,10 @@
   <li><img alt="Static Badge" src="https://img.shields.io/badge/Css%203-blue"></li>
   <li><img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-purple"></li>
   <li><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow"></li>
-  <li>React JS</li>
-  <li>React-router-dom</li>
-  <li>Node JS - Express JS</li>
-  <li>PosgresSql</li>
+  <li><img alt="Static Badge" src="https://img.shields.io/badge/React%20JS-darkblue"></li>
+  <li><img alt="Static Badge" src="https://img.shields.io/badge/React%20router%20dom-darkred"></li>
+  <li><img alt="Static Badge" src="https://img.shields.io/badge/NodeJS_ExpressJS-lime"></li>
+  <li><img alt="Static Badge" src="https://img.shields.io/badge/PostgresSql-silver"></li>
 </ul>
 <br/>
 <p align="center">
