@@ -4,7 +4,7 @@
 </p>
 <p align="center"><strong>Sobre mi</strong></p>
 <p>
-  Disfruto pasar tiempo en familia, hacer deporte, me gustan las computadoras 🖥 y actualmente me gradúe con el título <strong>Desarrollador Web FullStack</strong>👨‍🎓, donde tuve la oportunidad de trabajar y conocer las siguientes tecnologías:
+  Disfruto pasar tiempo en familia, hacer deporte, me gustan las computadoras 🖥 y actualmente me gradúe con el título <strong>Desarrollador Web FullStack</strong>👨‍🎓, donde tuve la oportunidad de aprender y trabajar con las siguientes tecnologías:
 </p>
 <span>💻</span>
 <ul>
