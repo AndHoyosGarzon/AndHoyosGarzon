@@ -4,7 +4,7 @@
 <p>
   Disfruto pasar tiempo en familia, hacer deporte, me gustan las computadoras 🖥 y actualmente me gradúe con el título <strong>Desarrollador Web FullStack</strong>👨‍🎓, donde tuve la oportunidad de aprender y trabajar con las siguientes tecnologías:
 </p>
-<p align="center">
+<p align="end">
 <ul>
   <li><img alt="Static Badge" src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=GIT&logoColor=git-white"></li>
   <li><img alt="Static Badge" src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white"></li> 
