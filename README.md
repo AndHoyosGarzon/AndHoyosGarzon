@@ -11,7 +11,7 @@
   <li>Bootstrap</li>
   <li>Javascript 
     <span>
-      <img src="https://img.shields.io/badge/%20javascript%20grey?style=for-the-badge&logo=javascript" />
+     ![Static Badge](https://img.shields.io/badge/JS-yellow)
     </span>
   </li>
   <li>React JS</li>
