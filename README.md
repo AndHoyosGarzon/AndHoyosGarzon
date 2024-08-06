@@ -9,7 +9,7 @@
   <li>Html 5</li> 
   <li>Css 3</li>
   <li>Bootstrap</li>
-  <li>Javascript</li><img alt="Static Badge" src="https://img.shields.io/badge/JS-yellow">
+  <li><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow"></li>
 
   <li>React JS</li>
   <li>React-router-dom</li>
