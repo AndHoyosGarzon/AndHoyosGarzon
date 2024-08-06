@@ -18,6 +18,7 @@
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/andres-felipe-hoyos-garzon-05836728a/">Linkeding  🔗</a> 
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Git">
 </p>
 
 
