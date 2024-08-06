@@ -18,7 +18,7 @@
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/andres-felipe-hoyos-garzon-05836728a/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Linkeding-blue">🔗
+    <img alt="Static Badge" src="https://img.shields.io/badge/Linkeding-blue">
   </a> 
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Git">
 </p>
