@@ -8,8 +8,8 @@
 <ul>
   <li><img alt="Static Badge" src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=GIT&logoColor=git-white"></li>
   <li><img alt="Static Badge" src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white"></li> 
-  <li><img alt="Static Badge" src="https://img.shields.io/badge/Css%203-blue"></li>
-  <li><img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-purple"></li>
+  <li><img alt="Static Badge" src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css3&logoColor=white"></li>
+  <li><img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white"></li>
   <li><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow"></li>
   <li><img alt="Static Badge" src="https://img.shields.io/badge/React%20JS-darkblue"></li>
   <li><img alt="Static Badge" src="https://img.shields.io/badge/React%20router%20dom-darkred"></li>
