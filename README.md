@@ -7,7 +7,7 @@
 <span>💻</span>
 <ul>
   <li><img alt="Static Badge" src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=GIT&logoColor=git-white"></li>
-  <li><img alt="Static Badge" src="https://img.shields.io/badge/Html%205-orange"></li> 
+  <li><img alt="Static Badge" src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white"></li> 
   <li><img alt="Static Badge" src="https://img.shields.io/badge/Css%203-blue"></li>
   <li><img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-purple"></li>
   <li><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow"></li>
