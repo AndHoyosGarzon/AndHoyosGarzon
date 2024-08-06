@@ -6,8 +6,8 @@
 <p>
   Disfruto pasar tiempo en familia, hacer deporte, me gustan las computadoras 🖥 y actualmente me gradúe con el título <strong>Desarrollador Web FullStack</strong>👨‍🎓, donde tuve la oportunidad de trabajar y conocer las siguientes tecnologías:
 </p>
+<span>💻</span>
 <ul>
-  <span>💻</span>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>BOOTSTRAP</li>
