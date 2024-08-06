@@ -23,5 +23,6 @@
   </a> 
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Git">
 </p>
+<hr/>
 
 
