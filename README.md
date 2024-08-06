@@ -8,14 +8,14 @@
 </p>
 <span>💻</span>
 <ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>BOOTSTRAP</li>
-  <li>JAVASCRIPT</li>
-  <li>REACT JS</li>
-  <li>REACT-ROUTER-DOM</li>
-  <li>NODE JS - EXPRESS JS</li>
-  <li>POSTGRESSQL</li>
+  <li>Html 5</li>
+  <li>Css 3</li>
+  <li>Bootstrap</li>
+  <li>Javascript</li>
+  <li>React JS</li>
+  <li>React-router-dom</li>
+  <li>Node JS - Express JS</li>
+  <li>PosgresSql</li>
 </ul>
 
 
