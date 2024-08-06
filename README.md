@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hola, soy Andrés Felipe Hoyos</h2>
 
-<p align="center"><strong>Sobre mi</strong></p>
+<h3><strong>Sobre mi</strong></h3>
 <p>
   Disfruto pasar tiempo en familia, hacer deporte, me gustan las computadoras 🖥 y actualmente me gradúe con el título <strong>Desarrollador Web FullStack</strong>👨‍🎓, donde tuve la oportunidad de aprender y trabajar con las siguientes tecnologías:
 </p>
