@@ -6,11 +6,10 @@
 </p>
 <span>💻</span>
 <ul>
-  <li>Html 5</li> 
-  <li>Css 3</li>
-  <li>Bootstrap</li>
+  <li><img alt="Static Badge" src="https://img.shields.io/badge/Html%205-orange"></li> 
+  <li><img alt="Static Badge" src="https://img.shields.io/badge/Css%203-blue"></li>
+  <li><img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-purple"></li>
   <li><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow"></li>
-
   <li>React JS</li>
   <li>React-router-dom</li>
   <li>Node JS - Express JS</li>
