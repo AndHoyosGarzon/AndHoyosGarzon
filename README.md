@@ -9,7 +9,11 @@
   <li>Html 5</li> 
   <li>Css 3</li>
   <li>Bootstrap</li>
-  <li>Javascript <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript" /></li>
+  <li>Javascript 
+    <span>
+      <img src="https://img.shields.io/badge/style=for-the-badge&logo=javascript" />
+    </span>
+  </li>
   <li>React JS</li>
   <li>React-router-dom</li>
   <li>Node JS - Express JS</li>
