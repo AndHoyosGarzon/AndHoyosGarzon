@@ -2,9 +2,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/andres-felipe-hoyos-garzon-05836728a/">Linkeding  🔗</a> 
 </p>
-
+<p align="center"><strong>Sobre mi</strong></p>
 <p>
-  <strong>Sobre mi:</strong>Disfruto pasar tiempo en familia, hacer deporte, los animales, me gustan las computadoras 🖥 y actualmente me gradúe con el título <strong>Desarrollador Web FullStack</strong>👨‍🎓, donde tuve la oportunidad de trabajar y conocer las siguientes tecnologías:
+  Disfruto pasar tiempo en familia, hacer deporte, los animales, me gustan las computadoras 🖥 y actualmente me gradúe con el título <strong>Desarrollador Web FullStack</strong>👨‍🎓, donde tuve la oportunidad de trabajar y conocer las siguientes tecnologías:
 </p>
 
 - 🔭 I’m currently working on ...
