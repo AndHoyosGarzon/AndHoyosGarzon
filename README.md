@@ -4,7 +4,8 @@
 <p>
   Disfruto pasar tiempo en familia, hacer deporte, me gustan las computadoras 🖥 y actualmente me gradúe con el título <strong>Desarrollador Web FullStack</strong>👨‍🎓, donde tuve la oportunidad de aprender y trabajar con las siguientes tecnologías:
 </p>
-<ul align="center" style="list-style:none;" >
+<p>
+<ul align="center"  >
   <li><img alt="Static Badge" src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=GIT&logoColor=git-white"></li>
   <li><img alt="Static Badge" src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white"></li> 
   <li><img alt="Static Badge" src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css3&logoColor=white"></li>
@@ -17,6 +18,7 @@
   <li><img alt="Static Badge" src="https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white">
 </li>
 </ul>
+</p>
 <hr/>
 <p align="center">
   <a href="https://www.linkedin.com/in/andres-felipe-hoyos-garzon-05836728a/">
