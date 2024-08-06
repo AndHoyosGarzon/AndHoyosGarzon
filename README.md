@@ -6,7 +6,7 @@
 </p>
 <span>💻</span>
 <ul>
-  <li>Html 5</li> <img src="[https://img.shields.io/badge/html5](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)" />
+  <li>Html 5</li> <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript" />
   <li>Css 3</li>
   <li>Bootstrap</li>
   <li>Javascript</li>
