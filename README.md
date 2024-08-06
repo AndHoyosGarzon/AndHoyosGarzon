@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/andres-felipe-hoyos-garzon-05836728a/">Linkeding  🔗</a> 
 </p>
 
-**Soy desarrollador web FullStack**
+**Sobre mi:**Disfruto pasar tiempo en familia, hacer deporte, los animales, me gustan las computadoras 🖥 y actualmente me gradúe con             el título **Desarrollador Web FullStack** donde tuve la oportunidad de trabajar y conocer las siguientes tecnologías:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
