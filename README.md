@@ -2,7 +2,9 @@
 <h2 align="center">👋 Hola, soy Andrés Felipe Hoyos</h2>
 <h3><strong>Sobre mi</strong></h3>
 <p>
-  Disfruto pasar tiempo en familia, hacer deporte, me gustan las computadoras 🖥 y actualmente me gradúe en <strong>4GEEKSACADEMY_CHILE</strong>, con el título <strong>Desarrollador Web FullStack</strong>👨‍🎓,  donde tuve la oportunidad de aprender y trabajar con las siguientes tecnologías:
+  Disfruto pasar tiempo en familia, hacer deporte, me gustan las computadoras 🖥 y actualmente me gradúe en <strong>4GEEKSACADEMY_CHILE</strong>, con el título 
+  <strong>Desarrollador Web FullStack</strong>👨‍🎓,  donde tuve la oportunidad de aprender 
+  y trabajar con las siguientes tecnologías:
 </p>
 <ul>
   <li><img alt="Static Badge" src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=GIT&logoColor=git-white"></li>
