@@ -2,8 +2,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/andres-felipe-hoyos-garzon-05836728a/">Linkeding  🔗</a> 
 </p>
-<!--
-**AndHoyosGarzon/AndHoyosGarzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **Soy desarrollador web FullStack**
 
@@ -15,4 +13,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
