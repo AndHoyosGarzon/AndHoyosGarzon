@@ -9,7 +9,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **NodeJS, ExpressJs, MongoDB**
 
-- 👯 Estoy buscando colaborar en [SenderosApp](https://github.com/4GeeksAcademy/final-project-nv-ms-fc-ah)
+- 👯 He podido colaborar en [SenderosApp](https://github.com/4GeeksAcademy/final-project-nv-ms-fc-ah)
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/AndHoyosGarzon?tab=repositories](https://github.com/AndHoyosGarzon?tab=repositories)
 
