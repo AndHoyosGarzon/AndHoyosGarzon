@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente estoy trabajando en [TrailerMovies](https://info-movie-app-web.vercel.app/)
 
-- 🌱 Actualmente estoy reforzando mis conocimientos de **NodeJS, ExpressJs, MongoDB**
+- 🌱 Reforzando mis conocimientos de **NodeJS, ExpressJs, MongoDB**
 
 - 👯 He podido colaborar en [SenderosApp](https://github.com/4GeeksAcademy/final-project-nv-ms-fc-ah)
 
