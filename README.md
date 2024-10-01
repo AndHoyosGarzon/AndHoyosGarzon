@@ -15,7 +15,7 @@
 
 - 👩‍💻 Habilidades **Git, Github, Html, Css, Bootstrap, JavaScript, ReactJs, NodeJs, ExpressJs, MongoDB**
 
-- 📫 Cómo contactarme **www.linkedin.com/in/andresfelipehoyosgarzon**
+- 📫 Puedes contactarme en  **www.linkedin.com/in/andresfelipehoyosgarzon**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
