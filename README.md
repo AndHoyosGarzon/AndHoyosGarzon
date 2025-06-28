@@ -51,7 +51,7 @@ Hello! 👋 I'm **Andrés Hoyos**, an **IBM-certified Backend Developer** specia
 
 I'm always open to technical discussions and new opportunities:  
 
-📧 [your-email@example.com](mailto:andreshg9203@gmail.com)  
+📧 [andreshg9203@gmail.com](mailto:your-email@example.com)  
 💼 [LinkedIn](#) *(www.linkedin.com/in/andresfelipehoyosgarzon)*  
   
 
