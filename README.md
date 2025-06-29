@@ -22,9 +22,9 @@ Hello! 👋 I'm **Andrés Hoyos**, an **IBM-certified Backend Developer** specia
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📜 Certifications  
-- **IBM Backend Development with Node.js and Express** 
-- **IBM Backend Development with Node.js and Express**  
+- **Developer Backend with knowledge in Frontend** 
 - [View Credential](#) *(https://certificate.4geeks.com/a9b6684fe7d16043b314d17f700196935c30047b)*  
+- **IBM Backend Development with Node.js and Express**  
 
 ## 📚 Featured Projects  
 
